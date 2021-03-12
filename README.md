@@ -1,7 +1,7 @@
 👋 Hi, I’m Jen based in South Korea<br> 
 👀 I'm a Instagram celebrity cat follower, sriracha lover, coding enthusiast especially the front end part<br>
 📚 I’m currently learning Node.js, MongoDB<br>
-💞️ I’m looking to collaborate on web develop project!<br>
+💞️ I’m looking to collaborate on any web develop projects!<br>
 <br>
 You can reach me through n.waves429@gmail.com. Enjoy coding ✨
 
