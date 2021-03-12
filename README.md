@@ -1,4 +1,4 @@
-👋 Hi, I’m Jen currently living in South Korea 
+&nbsp;👋 Hi, I’m Jen currently living in South Korea 
 👀 I'm a Instagram celebrity cat follower, sriracha lover, coding enthusiast especially the front end part
 📚 I’m currently learning Node.js, MongoDB
 💞️ I’m looking to collaborate on web develop project!
