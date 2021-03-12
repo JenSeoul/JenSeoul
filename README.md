@@ -1,7 +1,8 @@
-&nbsp;👋 Hi, I’m Jen currently living in South Korea 
-👀 I'm a Instagram celebrity cat follower, sriracha lover, coding enthusiast especially the front end part
-📚 I’m currently learning Node.js, MongoDB
-💞️ I’m looking to collaborate on web develop project!
+&nbsp;👋 Hi, I’m Jen currently living in South Korea<br> 
+👀 I'm a Instagram celebrity cat follower, sriracha lover, coding enthusiast especially the front end part<br>
+📚 I’m currently learning Node.js, MongoDB<br>
+💞️ I’m looking to collaborate on web develop project!<br>
+<hr>
 You can reach me through n.waves429@gmail.com. Enjoy coding ✨
 
 <!---
